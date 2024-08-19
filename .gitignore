@@ -6,3 +6,4 @@ credentials.yaml
 .env
 *.lock
 *.pyc
+notebooks/*

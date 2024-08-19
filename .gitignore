@@ -7,3 +7,4 @@ credentials.yaml
 *.lock
 *.pyc
 notebooks/*
+data/*

@@ -3,3 +3,6 @@
 .vscode/*
 .data/*
 credentials.yaml
+.env
+*.lock
+*.pyc
